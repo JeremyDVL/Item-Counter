@@ -5,6 +5,9 @@
 <p align="center">
   <img width="350" height="300" src="ItemCounterScrShot.jpg"
 </p>
+<p align="center">
+  https://jeremydvl.github.io/Item-Counter/
+</p>
 
 ## <ins>What it does
 
